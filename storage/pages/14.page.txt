@@ -1,0 +1,8 @@
+&lt;ul&gt;
+	&lt;li&gt;El horario de la Escuela es de 9:00 a 16:00 horas.&lt;/li&gt;
+	&lt;li&gt;El horario ampliado es:&lt;/li&gt;
+	&lt;ul&gt;
+		&lt;li&gt;Por la mañana: abrimos a las 7:30 horas.&lt;/li&gt;
+		&lt;li&gt;Por la tarde: cerramos a las 17:30 horas.&lt;/li&gt;
+	&lt;/ul&gt;
+&lt;/ul&gt;

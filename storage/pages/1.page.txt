@@ -1,0 +1,8 @@
+&lt;div class=&quot;texto&quot;&gt;
+	&lt;p&gt;
+		Esta sección está reservada para los padres de los alumnos de la Escuela Infantil San Vicente de Paúl.
+	&lt;/p&gt;
+	&lt;p&gt;
+		Entra en ACCESO PADRES y accede con tu Nombre de Usuario y Contraseña para poder ver esta información privada. Si todavía no posees tus datos de acceso solicítalos a la Dirección del Centro.
+	&lt;/p&gt;
+&lt;/div&gt;

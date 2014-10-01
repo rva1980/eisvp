@@ -1,0 +1,22 @@
+&lt;ul&gt;
+	&lt;li&gt;El curso comprende del 4 de septiembre de 2014 al 31 de julio de 2015.&lt;/li&gt;
+	&lt;li&gt;Vacaciones:&lt;/li&gt;
+	&lt;ul&gt;
+		&lt;li&gt;De Navidad: Del 24 de diciembre de 2014 al 1 de enero de 2015 (ambos incluidos).&lt;/li&gt;
+		&lt;li&gt;De Semana Santa: Del 28 de marzo al 5 de abril de 2015 (ambos incluidos).&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;li&gt;Días Festivos:&lt;/li&gt;
+	&lt;ul&gt;
+	 	&lt;li&gt;10 de noviembre de 2014 (Traslado de Nuestra Señora de la Almudena).&lt;/li&gt;
+	 	&lt;li&gt;8 de diciembre de 2014 (Constitución Española).&lt;/li&gt;
+	 	&lt;li&gt;6 de enero de 2015 (Epifanía del Señor).&lt;/li&gt;
+	 	&lt;li&gt;19 de marzo de 2015 (San José).&lt;/li&gt;
+	 	&lt;li&gt;1 de mayo de 2015 (Fiesta del Trabajo).&lt;/li&gt;
+	 	&lt;li&gt;2 de mayo de 2015 (Fiesta de la Comunidad de Madrid).&lt;/li&gt;
+	 	&lt;li&gt;4 de junio de 2015 (Corpus Christi).&lt;/li&gt;
+	&lt;/ul&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;
+	Para descargar el Calendario Escolar 2014/2015 &lt;a href=&quot;http://home.oxkhar.com/monstra/public/uploads/calendario.pdf&quot;&gt;pulsa aquí&lt;/a&gt;.
+&lt;/p&gt;

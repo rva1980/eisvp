@@ -1,0 +1,9 @@
+Esto es una prueba de una noticia privada. No debería aparecer para usuarios no registrados. Ole.
+
+A continuación vamos a colgar unas fotos a ver que tal.
+
+&lt;img src=&quot;http://home.oxkhar.com/monstra/public/uploads/cocina01.jpg&quot; alt=&quot;Cocina1&quot; /&gt;
+&lt;img src=&quot;http://home.oxkhar.com/monstra/public/uploads/cocina02.jpg&quot; alt=&quot;Cocina2&quot; /&gt;
+&lt;img src=&quot;http://home.oxkhar.com/monstra/public/uploads/cocina03.jpg&quot; alt=&quot;Cocina3&quot; /&gt;
+
+La dirección.

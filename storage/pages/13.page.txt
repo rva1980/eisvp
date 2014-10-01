@@ -1,0 +1,14 @@
+&lt;ul&gt;
+	 &lt;li&gt;Escolaridad: Está determinada por el nivel de renta de las familias. Los precios son:&lt;/li&gt;
+	 &lt;ul&gt;
+	 	 &lt;li&gt;80 €.&lt;/li&gt;
+	 	 &lt;li&gt;130 €.&lt;/li&gt;
+	 	 &lt;li&gt;180 €.&lt;/li&gt;
+	 	 &lt;li&gt;260 €.&lt;/li&gt;
+	 &lt;/ul&gt;
+	 &lt;li&gt;Además, a los alumnos nacidos en 2014 se les aplica una cuota de 60 €.&lt;/li&gt;
+	 &lt;li&gt;Comedor: 96 €.&lt;/li&gt;
+	 &lt;li&gt;Horario ampliado: 15 € cada media hora al mes.&lt;/li&gt;
+	 &lt;li&gt;Desayuno: 18 €.&lt;/li&gt;
+	 &lt;li&gt;Merienda: 20 €.&lt;/li&gt;
+&lt;/ul&gt;
