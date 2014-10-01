@@ -28,14 +28,6 @@
 			<input class="form-control" type="text" value="<?php echo $user['email']; ?>" name="email">
 		</div>
 		<div class="form-group">
-			<label><?php echo __('Twitter', 'users'); ?></label>
-			<input class="form-control" type="text" value="<?php echo $user['twitter']; ?>" name="twitter">
-		</div>
-		<div class="form-group">
-			<label><?php echo __('Skype', 'users'); ?></label>
-			<input class="form-control" type="text" value="<?php echo $user['skype']; ?>" name="skype">
-		</div>
-		<div class="form-group">
 			<label><?php echo __('About Me', 'users'); ?></label>
 			<textarea class="form-control" name="about_me"><?php echo $user['about_me']; ?></textarea>
 		</div>
