@@ -393,6 +393,10 @@ textarea {
 /******************************** PIE ********************************/
 footer {
 	position: relative;
+	border-bottom: 8px solid #ffffff;
+}
+footer div {
+	margin-bottom: -6px;
 }
 footer img {
 	max-width: 100%;
@@ -445,6 +449,7 @@ footer img {
 	text-align: center;
 	z-index: 30;
 	max-width: 100%;
+	
 }
 /******************************** VARIOS ********************************/
 .logoCAM {

@@ -85,11 +85,11 @@
 							<a id="botonInicio" href="index.html">
 								INICIO
 							</a>
-							<a id="botonNoticias" href="noticias.html">
-								NOTICIAS
-							</a>
 							<a id="botonInformacion" href="informacion.html">
 								INFORMACIÓN
+							</a>
+							<a id="botonNoticias" href="noticias.html">
+								NOTICIAS
 							</a>
 							<a id="botonProyectoEducativo" href="proyectoeducativo.html">
 								PROYECTO EDUCATIVO
@@ -255,8 +255,8 @@
 									En cumplimiento de lo dispuesto en la Ley Orgánica 15/1999 de Protección de Datos de Carácter Personal, le informamos de que los datos que nos facilite a través del presente formulario pasarán a formar parte de un fichero propiedad de la ESCUELA INFANTIL SAN VICENTE DE PAÚL. y serán utilizados ÚNICAMENTE con la finalidad de remitirle la información que usted nos solicite. En consecuencia, sus datos no serán almacenados ni utilizados para cualquier otra finalidad, ni cedidos a terceras personas. Usted podrá ejercer, en cualquier momento, sus derechos de acceso, rectificación, cancelación y oposición mediante escrito dirigido a la dirección de correo electrónico eisvp@planalfa.es junto con copia del correspondiente documento acreditativo de su identidad.
 								</p>
 								<div id="botonesFormulario">
-									<input name="limpiar" id="limpiar" type="reset" value="LIMPIAR">&nbsp;
-									<input name="enviar" id="enviar" type="submit" value="ENVIAR"> 
+									<input name="limpiar" id="limpiar" type="reset" value="Limpiar">&nbsp;
+									<input name="enviar" id="enviar" type="submit" value="Enviar"> 
 								</div> 		
 							</form>
                				<!--TERMINA FORMULARIO-->
