@@ -210,7 +210,7 @@ class Users extends Frontend
     public static function logout()
     {
         Session::destroy();
-        Request::redirect($_SERVER["HTTP_REFERER"]);
+        Request::redirect("login");
     }
 
     /**
