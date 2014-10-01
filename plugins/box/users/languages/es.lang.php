@@ -27,7 +27,7 @@
             'User' => 'Usuario',
             'Editor' => 'Editor',
             'Register' => 'Registrar',
-            'Edit profile' => 'Editar prefil',
+            'Edit profile' => 'Editar perfil',
             'Save' => 'Guardar',
             'Firstname' => 'Primer nombre',
             'Lastname' => 'Apellido',
