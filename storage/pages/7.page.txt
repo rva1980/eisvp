@@ -1,0 +1,23 @@
+&lt;p&gt;
+	 Estimados padres.
+&lt;/p&gt;
+&lt;p&gt;
+	Os damos la bienvenida a la Escuela Infantil San Vicente de Paúl y os informamos que:
+&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;
+		El curso comienza el 4 de septiembre de 2014 a las 9:00 horas.
+	&lt;/li&gt;
+	 &lt;li&gt;
+		El día 3 de septiembre de 2014 a las 18:00 horas mantendremos una reunión con los padres en la iglesia de San Vicente de Paúl.
+	&lt;/li&gt;
+	&lt;li&gt;
+		 Haremos un período de adaptación y hasta el día 12 de septiembre los alumnos vendrán hasta las 12:00 horas.
+	&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+	Atentamente.
+&lt;/p&gt;
+&lt;p&gt;
+	La dirección.
+&lt;/p&gt;
